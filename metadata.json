@@ -1,0 +1,6 @@
+{
+  "name": "Crediário Fácil",
+  "description": "Sistema completo para controle de clientes, vendas parceladas, cobranças e crediário da sua loja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
